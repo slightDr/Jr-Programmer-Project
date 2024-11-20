@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   OptimPrefab: {fileID: 8766367829138782216, guid: 2a756555c9ece84409c7ee09b60b0732, type: 3}
-  InstanceCount: 200
+  InstanceCount: 2000
   Size: {x: 40, y: 0, z: 40}
 --- !u!4 &1089119841
 Transform:
